@@ -1,4 +1,10 @@
 <p align="center">
+HWLMATT Deps tracking<br />
+  <a href="https://david-dm.org/hwlmatt/bento-starter"><img alt="Dependencies" src="https://david-dm.org/hwlmatt/bento-starter.svg" target="_blank" /></a>
+<a href="https://david-dm.org/hwlmatt/bento-starter?type=dev"><img alt="DevDependencies" src="https://david-dm.org/hwlmatt/bento-starter.svg" target="_blank" /></a>
+</p>
+
+<p align="center">
 <img src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" alt="Npm version" target="_blank" />
 <a href="https://circleci.com/gh/kefranabg/bento-starter/tree/master"><img alt="CircleCI" src="https://circleci.com/gh/kefranabg/bento-starter/tree/master.svg?style=svg&circle-token=f311e2320782a12321a769faa2ef1d3cdf5e1a10" target="_blank" /></a>
 <a href="https://bento-starter.netlify.com/"><img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" target="_blank" /></a>
