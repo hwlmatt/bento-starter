@@ -22,7 +22,7 @@
   "dependencies": {
     "acorn": "^7.1.0",
     "canvas": "^2.6.0",
-    "core-js": "^3.2.1",
+    "core-js": "^3.5.0",
     "eslint-plugin-jsx-a11y": "^6.2.3",
     "eslint-plugin-react": "^7.17.0",
     "eslint-plugin-react-hooks": "^1.7.0",
