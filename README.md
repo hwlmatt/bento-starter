@@ -3,6 +3,7 @@ hwlmatt (this repo) Deps tracking<br /><br />
   <a href="https://david-dm.org/hwlmatt/bento-starter"><img alt="Dependencies" src="https://david-dm.org/hwlmatt/bento-starter.svg" target="_blank" /></a>
 <a href="https://david-dm.org/hwlmatt/bento-starter?type=dev"><img alt="DevDependencies" src="https://david-dm.org/hwlmatt/bento-starter.svg" target="_blank" /></a>
 </p>
+<p><h3>Not updated:</h3>eslint-plugin-react-hooks@^1.7.0 is required by eslint-plugin-airbnb@18.0.1(latest)<br />eslint-plugin-import@2.18.2 is locked at that version since anything ^ currently breaks with errors (it is wanting to require .vue file extension in import code)</p>
 **This fork is just for dependency checking and upgrading with intent to pull request non-breaking changes back to master repo. Use the original <a href="https://github.com/kefranabg/bento-starter">https://github.com/kefranabg/bento-starter</a> in your project if you are expecting support and non-breaking changes.**
 <hr />
 <p align="left">Original Repo: </p>
