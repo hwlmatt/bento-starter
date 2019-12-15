@@ -31,20 +31,7 @@ import { desktop as isDekstop } from 'is_js'
 
 export default {
   data: () => ({ loginError: null }),
-  head() {
-    return {
-      title: {
-        inner: 'Login'
-      },
-      meta: [
-        {
-          name: 'description',
-          content: `Sign in or sign up to ${this.appTitle}`,
-          id: 'desc'
-        }
-      ]
-    }
-  },
+
   computed: {
     ...mapState('authentication', ['user']),
     ...mapState('app', ['networkOnLine', 'appTitle'])
@@ -81,6 +68,20 @@ export default {
         this.loginError = err
         this.setUser(null)
       }
+    }
+  },
+  head() {
+    return {
+      title: {
+        inner: 'Login'
+      },
+      meta: [
+        {
+          name: 'description',
+          content: `Sign in or sign up to ${this.appTitle}`,
+          id: 'desc'
+        }
+      ]
     }
   }
 }
