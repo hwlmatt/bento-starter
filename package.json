@@ -52,7 +52,7 @@
     "babel-eslint": "^10.0.3",
     "babel-jest": "^24.9.0",
     "babel-plugin-lodash": "^3.3.4",
-    "boxen": "4.0.0",
+    "boxen": "^4.0.0",
     "bundlesize": "github:kefranabg/bundlesize",
     "chalk": "^2.4.2",
     "change-case": "3.1.0",
